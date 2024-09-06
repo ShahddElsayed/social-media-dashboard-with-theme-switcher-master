@@ -14,7 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./DarkModeSolution.jpeg)
+![](./LightModeSolution.jpeg)
 
 ### Links
 
